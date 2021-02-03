@@ -84,3 +84,5 @@ URxvt.perl-lib:	/home/norman/.urxvt/ext/
 URxvt.scrollBar:	false
 URxvt.keysym.Control-Right: \033[1;5C
 URxvt.keysym.Control-Left: \033[1;5D
+URxvt.keysym.Home: \033[1~
+URxvt.keysym.End: \033[4~
